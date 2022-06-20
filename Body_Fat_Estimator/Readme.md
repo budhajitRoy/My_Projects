@@ -5,6 +5,8 @@
 - abdome
 - hip
 
+The web-app can be accessed [here](https://body-fat-estimator15.azurewebsites.net/)
+
 **Project is developed using the following tools:
 - Python
 - Scikit-Learn
@@ -26,8 +28,8 @@
 - requirements.txt: text file that list of all the dependencies needed for this project
 - Readme.md : Readme file for this project
 
-Dataset is taken from Kaggle :
-https://www.kaggle.com/datasets/fedesoriano/body-fat-prediction-dataset
+Dataset is taken from [Kaggle](https://www.kaggle.com/datasets/fedesoriano/body-fat-prediction-dataset) 
+
 
 More details about the Data:
 
